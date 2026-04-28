@@ -7,7 +7,7 @@ import os
 from openai import OpenAI
 
 # Initialize OpenAI
-client = OpenAI(api_key=os.getenv("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))
+client = OpenAI(api_key=os.getenv("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"))
 
 st.set_page_config(page_title="Multimodal AI Analyzer", layout="wide")
 
