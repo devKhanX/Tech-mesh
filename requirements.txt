@@ -1,0 +1,53 @@
+TechMesh'26 Speed Coding Module
+
+Final Problem Statement
+
+Advanced Multimodal Image Understanding and Storytelling Al
+
+Objective
+
+Develop an Al-powered system that accepts a real image at runtime and performs deep multimodal analysis. The system must understand the visual scene, generate structured textual insights, and produce a creative story inspired by the image.
+
+The goal is to test how well a team can combine computer vision, prompt design, text generation, and a polished live demo into one working application.
+
+Functional Scope
+
+The participant must be able to upload an image or capture one using a webcam/camera. After receiving the image, the system should analyze it live and present the results in a clear and attractive interface.
+
+One-sentence factual caption
+
+3-5 line descriptive summary
+
+List of visible objects/entities
+
+Estimated emotional tone or atmosphere
+
+Scene classification such as classroom, office, street, park, event, indoor, outdoor, or crowd
+
+Short creative story or narrative inspired by the scene
+
+Confidence score for the analysis
+
+Image quality analysis such as blurry, dark, bright, low-light, clear, or partially visible
+
+Interesting Challenge Features
+
+To make the module more engaging and closer to a real deployment-ready product, the system may include the following advanced features:
+
+Story tone selection: emotional, funny, dramatic, formal, kids-style, or detective style
+
+Follow-up question answering about the same image
+
+Comparison mode for two images to detect differences in brightness, crowd level, mood, and scene type
+
+Automatic highlight of important keywords from the image analysis
+
+Optional audio narration of the generated output
+
+Downloadable analysis report for sharing or submission
+
+Final Deployment Twist
+
+For the final deployment stage, the system must include a small but useful deployment feature that makes it feel like a real product rather than just a demo.
+
+Recommended deployment feature: a Live Analysis Dashboard that keeps the last few uploaded images, shows their captions and mood scores, and lets the user switch between Demo Mode and Live Mode.
